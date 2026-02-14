@@ -24,3 +24,5 @@ U4,SHT40 (Senzor),C2848306,Extended,"3,427"
 U5,W25Q16 (Flash),C2843335,Extended,"2,3964"
 U6,MPU-6050 (Gyro),C24112,Extended,"15,7754"
 Y1,12MHz Crystal,C9002,Basic,"0,1452"
+
+Shipping, GSDL, / , / , "1,50"
