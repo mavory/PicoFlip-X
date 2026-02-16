@@ -26,6 +26,7 @@ U5,W25Q16JVZPIQTR,C2843335,https://jlcpcb.com/partdetail/WinbondElec-W25Q16JVUXI
 U6,MPU-6050,C24112,https://jlcpcb.com/partdetail/TDKInvenSense-MPU6050/C24112,Extended,2,2 JLCPCB,"15,7754"
 Y1,12MHz,C9002,https://jlcpcb.com/partdetail/YXC_CrystalOscillators-X322512MSB4SI/C9002,Basic,2,2 JLCPCB,"0,1452"
 "PCBA (Parts + Assembly)",,,,65.32
-"PCB (Black)",,,,4.00
-"Shipping (GSDL)",,,,1.50
-"TOTAL",,,,70.82
+"PCB (Black)",,,,,,4.00
+"Shipping (GSDL)",,,,,1.50
+"TOTAL",,,,,70.82
+
