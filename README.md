@@ -1,7 +1,7 @@
 <div align="center">
   
 # PicoFlip X 
-![header](https://github.com/mavory/PicoFlip-X/blob/main/Photos/Sn%C3%ADmek%20obrazovky%202026-02-14%20212438.png?raw=true)
+![header](https://github.com/mavory/PicoFlip-X/blob/main/Photos/20260328_153236.jpg?raw=true)
 
 PicoFlip X is a compact RP2040 development board with a built-in IMU for motion tracking, there's also a humidity and temperature sensor! It has several status LEDs, buttons,...
 </div>
