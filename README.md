@@ -107,5 +107,10 @@ The bill of material is also available here: [BOM.csv](https://github.com/mavory
 </details>
 
 <hr>
+<div align="center">
 
-> Made with ❤️ - by [@mavory](https://github.com/mavory) | Also thank you for providing the guide [@Kai Pereira](https://github.com/kaipereira)! 
+Here is the link to the video: [YouTube](https://youtu.be/9DEOVKMEVFU)
+
+<hr>
+
+Made with ❤️ - by [@mavory](https://github.com/mavory) | Also thank you for providing the guide [@Kai Pereira](https://github.com/kaipereira)! 
